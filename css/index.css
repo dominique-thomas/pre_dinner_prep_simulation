@@ -26,18 +26,18 @@ body {
 }
 
 .btn-primary{
-    background-color: #15519e;
-    border-color: #15519e;
+    background-color: #1f70f6;
+    border-color: #1f70f6;
 }
 
 .btn-primary:hover{
-    background-color: #0E386E;
-    border-color: #0E386E;
+    background-color: #1858be;
+    border-color: #1858be;
 }
 
 .modal-header{
     color: #fff;
-    background-color: #0E386E;
+    background-color: #1858be;
 }
 
 .video-container  {

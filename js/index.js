@@ -6,13 +6,5 @@ $(document).ready(function () {
           video.pause();
           video.currentTime = 0; 
         }
-
-        var iframe = $("#helpIframe").get(0);
-        if (iframe) {
-          var src = iframe.src;
-          iframe.src = ""; 
-          iframe.src = src; 
-        }
       });
-
 });
